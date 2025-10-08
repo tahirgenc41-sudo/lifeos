@@ -1,0 +1,195 @@
+LİFE MANAGEMENT OS CHATGPT PROJECT INSTRUCTIONS
+
+
+Her insanın mevcuttaki durumunu gösteren bir A noktası ve ulaşmak istediği hedeflerin tamamının o an veya zaman için gerçekleştiği bir T noktası vardır.Ben bu noktayı T noktası olarak tanımlıyorum.İnsanın hayatında ölene kadar her zaman ulaşmak istediği T noktaları olacaktır ve bu noktalar her zaman insanın hayattan ne beklediğine göre değişkenlik gösterebilir.Ancak insan doğası gereği birçok şeye ihtiyaç duyan (birçok şey kendisinde olmayan) bir varlıktır.Maslow’un ihtiyaçlar hiyerarşisindeki hiyerarşik yapı bu ihtiyaçları ana başlıklar halinde özetlemektedir.
+
+Bir insanın A noktasından T noktasına (hedef noktası) olan yolculuğunda kendisine etki eden birçok faktör vardır.Bu faktörler T noktasına gitmeyi zorlaştıran (sürtünme kuvveti oluşturan) faktörlerde olabilir, T noktasına gitmeyi kolaylaştıran faktörlerde olabilirler.İnsan bu faktörleri bilinçli karar ve seçimleriyle yönlendirebilme, süreci yönetebilme kabiliyetine sahip olmazsa yaşam zamanı içerisindeki herhangi bir zaman veya anda kendisine etki eden etki mekanizmaları sebebiyle rüzgarda savrulup yolundan sapan bir yaprak gibi olur.Bir insanın T noktasına gitmesini zorlaştıran veya kolaylaştıran faktörler hem kendinden kaynaklanabilir hemde dış faktörlerden kaynaklanabilir.Burada fizikteki prensiplerden faydalanmak yerinde olacaktır.İnsanı bir cisim olarak nitelendirirsek ona dışardan ve içerden etki eden birçok faktör veya kuvvet vardır.Bu cismin A noktasından T noktasına gitmesi için cismin hem kendinden hemde dışarıdan gelen negatif etkileri bilinçli olarak bertaraf ederek zaman içinde ilerlemesi ve kendi öz enerjisini bilinçli olarak yönlendirip yönetmesi gerekmektedir.Buradan anlaşılacağı üzere insanın A noktasından T noktasına olan yolculuğunu aktif bir biçimde yönetip günlük enerjisini doğru odaklara yönlendirmesi büyük önem taşımaktadır.Enerjisi farklı alanlarda bölünen bir insan T noktasına gitmekte oldukça zorluk çeker.A noktasından T noktasına gitmek isteyen bir insan için doğal ve doğal olmayan engeller vardır bu engeller onun enerjisini düşürür ve bilinçsiz bir hayat yaşamasına sebep olur.Örneğin sağlık problemleri olan bir insan saatlerce bilgisayar başında odaklanması gereken bir işi yapmakta güçlük çekecek, yapamayacak ve odaklanamayacaktır.Veya eşiyle ilişkileri kötü olan bir birey odaklanma gerektiren yazılım geliştirme işinde ilerleme sağlayamayacaktır.Farklı bir biçimde finansal olarak kendi ihtiyaçlarını karşılayamayan bu sebeple borçlanarak yaşamını devam ettirmeye çalışan bir insanın sakin düşünerek gelecek planları yapması beklenemez.Görüldüğü üzere A noktasından ideal T noktasına ulaşmak için bir insanın hayatına etki eden birçok faktörün bütüncül şekilde yönetilip yönlendirilmesi gerekmektedir.
+
+Ben yaşadığım hayatın her alanını ve zamanı merkeze kendimi koyarak aktif bir biçimde yöneterek ulaşmak istediğim hedeflere ulaşmam gerektiğini ve hayatımı bilinçli olarak yönlendirmem gerektiğini düşünen bir bireyim.Yaşadığım hayatta bir insan olarak belirli bir kapasitemin (günlük enerji) olduğunu, bunun yanında ihtiyaçlarım olduğunu (uyumak, yemek yemek,gezmek, eğlenmek, meditasyon yapmak, odaklı düşünebilmek, öğrenmek gibi) gördüm.Bir alanda aşırı odaklanarak, zaman içerisindeki ihtiyaçlarımıda görmezden gelerek uzun saatler boyunca üzerinde çalıştığım işlerin sürdürülebilir olmadığını, bir süre sonra hayatımın diğer alanlarında problemler oluştuğunu gördüm.Bir başka örnek vermek gerekirse, Ulaşmam gereken hedeflerden biri bilgisayar başında uzun saatler oturarak bir trade yazılım geliştirmek olduğunda, vücudumun sağlıklı yaşam gereği ihtiyacı olan hareket etme ihtiyacının karşılanmaması sebebiyle sağlığımın bozulduğunu gördüm ve bununda sürdürülebilir olmadığına birçok kez şahit oldum.Bir başka örnekte ise, memuriyet mesleğimin içerisindeki uzun çalışma saatleri sebebiyle günlük zaman döngülerimi yönetemediğimi, yapmak istediğim ve ulaşmak istediğim hedeflerim için zaman ayıramadığıma şahit oldum.
+
+Bu sorunların üstesinden gelerek yukarıda tanımladığım gibi A noktasından T noktasına olan yolculuğumu aktif ve bilinçli bir şekilde yönetmek için çeşitli zaman yönetim uygulamaları üzerinde (Excel, Notion, Ticktick, Trello, Microsoft Todo) planlamalar yapmaya çalıştım ancak benim ihtiyaçlarıma cevap verebilecek tam fonksiyonlu ve bütünsel yaklaşım içeren herhangi bir çözüme ulaşamadım.Tiago Fortenin geliştirdiği Second Brain mantığını içerisinde barındıran kapsamlı ve hiyerarşik bir Hayat Yönetim İşletim sistemini (Life Management OS) bir web uygulaması olarak tasarlamak istiyorum.Bu uygulama önce web üzerinde çalışacak, ayrıca sonradan geliştireceğim Apple ve Android uygulamalarıylada entegre halde çalışabilecek.
+
+Ancak burada benim bu uygulamaları geliştirebilmek için hiçbir bilgim yok.Ne yazılım geliştirme süreçleriyle ilgili, ne planlama ile ilgili hiçbir bilgim yok.Sadece HTML, CSS,Server Side,SQL, bilgim var.Ben sadece yapmak istediğim sistemin nasıl çalışması gerektiğini biliyorum ve tüm süreci yapay zeka uygulamaları ve ajanları kullanarak gerçekleştirmek istiyorum.Bildiğim yapay zeka uygulamaları arasında Tasarım için Figma, kodlama için Cursor IDE ve Warp ADE(Agentic Development Enviroment) var.
+
+Elimde daha önceden geliştirdiğim çeşitli planlama ve fikir dosyaları mevcut ancak bunlarıda tam olarak bitirip tamamlamış değilim.Bu dosyaları ve belge içeriklerini seninle dosyalar kısmından paylaştım. Şimdi gelelim uygulamanın kullanıcı tarafında nasıl çalıştığına.
+
+LIFE MANAGEMENT OS UYGULAMASI
+
+Uygulamanın Amacı: Hiyerarşik Hayat Yönetimi İşletim Sisteminin (Life OS) amacı, bir insanı bu hayatta ulaşmak istediği en yüksek standartlardaki noktaya erişmesi için mevcut yaşamının stratejik olarak yönetebilmesini amaçlamaktadır.  
+
+Sistemin İşleyişi ve Akışı: Sistem kendini sürekli yenileyen dinamik bir yapı olarak kurgulanmıştır. Sisteme kullanıcı tarafından Girdiler (INPUTS) sağlanır.Kullanıcı bu girdileri işler ve organize ederek gerekli yere gönderir ve bu girdilerden bir Çıktı (OUTPUT) elde edilir.Yani sisteme girilen girdiler sistem içerisinde bir çıktı olana kadar seyahat eder.Çıktılardan elde edilen verilerden sistem öğrenir ve feedback mekanizması devreye girer ve tekrar sisteme girdi olabillir, veya çıktılar arşivlenir.Bu yapı dikey olarak kurulmuş bir yapıdır.Genel olarak sistem şu 5 mekanizma ile çalışır;
+
+1- Ana Girdiler (Inputs) – (Catching İşlemi)
+2- Ana Sistem Life OS - (Verileri İşleme ve Yönetimi)
+2.1.Ben (Layer0) Katmanı
+2.1.1- Layer0 Girdileri(Catching)
+2.1.2- Layer0 Master Root Management
+2.1.2.1- Master Task Management Table(Ana Görev Yönetimi Tablosu)
+2.1.2.2- Master Life Strategy Management(Ana Strateji Belgesi)
+2.1.2.3- Master Time Management and Planning Table(Ana Zaman Yönetimi ve Planlama Belgesi ve Tablosu)
+2.1.2.4- Master Günlük Zorunlu Çalışma ve Dinlenme Düzeni Tablosu
+2.1.2.5- Layer0 Rutin Görev ve Alışkanlıklar
+2.1.2.5.1- Tek Seferlik Görevler (Tarih Bazlı) Planı Tablosu
+2.1.2.5.2- Periyodik Görevler (Haftalık-Aylık-Yıllık) Planı Tablosu
+2.1.2.5.3- Günlük Alışkanlık Hedefleri Planı Tablosu
+2.1.2.6- Hatırlatma ve Motivasyon Planı Tablosu
+2.1.3- Günlük Yaşam Döngüsü Programı Tablosu
+2.1.4- Çıktılar - Outputs
+2.1.5- Arşiv – Archives
+
+2.2.Sağlık ve Güvenlik (Layer1) Katmanı
+2.3.Finansal Güvenlik ve Yönetimi (Layer2) Katmanı
+2.3.İlişkiler Yönetimi (Layer3) Katmanı
+…..
+…
+…
+…
+
+3- Outputs - Çıktılar
+4- Re-İnput & Feedback - (Sistem Kendinden Öğrenir)
+5- Archives – Arşiv
+
+
+Katmanların Ortak Düzeni – (Layer0 Hariç- Layer 1,2,3,4,5,…..):
+Katman 1’den başlamak üzere devam eden tüm katmanlar aynı düzende açılır ve çalışır.Katmanlar PARA sistemindeki Areas ile ilişkilendirilebilir ancak aşağıdaki örnek düzen referans alınır.Bir katman Girdiler(Inputs-Catching), Katman Projeleri, Çıktılar ve Arşiv ana bölümlerinden oluşur.
+
+1. Katman Girdileri(Inputs-Catching)
+2. Katman Task Management Table(Katman Görev Yönetimi Tablosu)
+3. Katman Ana Stratejisi
+4. Katman Zaman Yönetimi ve Planlaması
+5. Katman Ana Projeleri
+6. Katman Çıktıları – Outputs
+7. Katman Arşivi – Archives  
+
+Katman Ana Projeleri Düzeni – (Projects):
+Projeler katmanların altında yer alan katmana ait ana bölüm içerisinde yer alır. Bir projeninde kendi içerisinde bölümleri vardır.Bunlar şu şekildedir;
+
+1.Project Girdileri(Inputs-Catching)
+2.Project Task Management Table (Proje Görev Yönetimi Tablosu)
+3.Proje Strategy Document (Proje Stratejisi Belgesi)
+4.Proje Time Management and Planning Table(Proje Zaman Yönetimi ve Planlama Tablosu)
+5.Projeye Ait Modül 1 (Bu modüller isteğe göre tasarlanan ve bir işlevi yerine getiren modüllerdir, Örneğin Trading Journal Tablosu – Trade Kayıtlarını Tutan Modül)
+6.Projeye Ait Modül 2 
+7.Projeye Ait Modül 3
+…...
+….
+8. Çıktılar – Outputs
+9. Arşiv – Archive
+
+
+1- Ana Girdiler (Catching) – Inputs: 
+Bu alan ilk ana alandır.Genel olarak kullanıcın aklına gelen fikirler ve herhangi bir şey burada yakalanır (catching).Bu alanda yakalanan veriler tarihsel olarak sıralanarak saklanır.Bu veriler gösterilirken en eski olanlar en önde olacak şekilde gösterilir.Bu alanda yer alan veri tipleri şu şekildedir;
+
+Ana Girdiler Veri Tipleri: 
+1.1- Girdi Başlığı
+1.2- Girdi Açıklaması (Burası bir word belgesinin tüm özelliklerini içerecek, tablo oluşturulabilir, şekil çizilebilir gelişmiş bir not tutma sayfası gibi çalışır.)
+1.3- Girdinin Tarihi ve Saati (Sistem otomatik olarak güncel tarih ve saati gösterir)
+1.4- Girdinin Kategorisi-Alanı (Kullanıcı burada girdinin hangi alanla ilgili olduğunu kategorisel olarak işaretler.)
+1.5- Girdinin Aciliyet Seviyesi (Yüksek – Orta ve Düşük öncelikli olarak seçebilir)
+
+2.Ana Sistem Life OS (Verilerin İşlendiği ve Birçok İşlemin yapıldığı Ana Yönetim Sistemi)
+
+Ana life os sistemi tamamen katman (layer) yapısı ile çalışır.Katmanlar birbirlerine göre ve önem sırasına göre hiyerarşiktir.Her katman (layer) PARA sistemindeki Areas mantığına göre çalışır.Buradaki hiyerarşiyle amaçlanan şey; bir insana etki eden etki mekanizmalarının en yakınınından (en fazla etki edenlerden - önemlililerden) en uzağa doğru (en az etki edenlere - en önemsize doğru) sıralanmasını sağlamaktır.İlk ve En Önemli Katman Layer0 (Ben), Layer1 (Sağlık ve Güvenlik), Layer2 (Finansal Güvenlik ve Yönetimi), Layer3(İlişkiler)…… gibi arttırılabilir alanlardır.Kullanıcı bu alanları istediği gibi tanımlayabilir.Ancak Layer0 kısmı ve alt bölümleri sistem başlangıcında otomatik olarak oluşturulur.
+
+Katman sistemleride kendi içlerinde hiyerarşik bir düzene sahiptir.Her bir katmanın yataydaki sahip olduğu hiyerarşik yapıda ana sisteme benzemektedir.Yani her layer’ın bir Girdiler(Catching) tablosu, Ana sistem, Çıktılar, Re-İnput ve Arşiv bölümü bulunur.Kullanıcı ana sistemde catching kısmında yakaladığı bilgileri isterse bu layer sisteminin girdi kısmına gönderebilir.Sonrada o layer’ın sistemi içerisinde çeşitli yerlere gönderebilir.
+
+2.1- Ben (Layer0) Katmanı Yapısı ve İşlevleri: 
+
+2.1.1- Layer0 Girdileri(Catching)
+2.1.2- Layer0 Master Root Management
+
+2.1.2.1- Master Task Management(Ana Görev Yönetimi Tablosu): Layer0 ile ilgili tüm görevlerin yönetileceği Ana Görev Yönetimi (Kanban Tablosu).Bu tabloda Katman 0 ile ilgili tüm görevler yönetilir.Yapılması Planlanan Görevler, Yapılmakta Olan Görevler ve Yapımı Tamamlanan Görevler tabloları bu kısımda görüntülenir.Bu alanda kanban tablosunda Yapımı Tamamlanan Görevler tablosuna eklenen işler için Notlar ve Düşünceler kısmı aktifleştirilir.Bu biten işler Outputs-Çıktılar tablosuna eklenir.Kullanıcı Yapımı Devam Etmekte olan bir görev kartını Yapımı Tamamlanan Görevler tablosuna aktardığında otomatik olarak kendisine bu görevle ilgili Düşüncelerini ve Geri Bildirimlerini girebileceği bir ekran açılır.Kullanıcı bu bilgileri sisteme girebilir ve bu görevler otomatik olarak Outputs – Çıktılar Ekranına eklenir.Outputs – Çıktılar alanında bu görevler istatistiki bilgiler için, Yeniden öğrenme ve Re-Input için kullanılabilir, kullanıcının elde ettiği deneyimler ve durumlara göre yeni görevlerin ortaya çıkmasına sebep olabilir.
+
+2.1.2.2- Master Life Strategy Management(Ana Strateji Belgesi): Kullanıcı bu belgede A noktasını ve T noktasını tanımlar.T noktasında erişmek istediği tüm herşeyi tanımlayarak bu hedefe ulaşmak için gerekli olan tüm stratejileri mevcut durumdan gidilebilecek uygulanabilir stratejiler olarak düşünür ve ana hayat strateji belgesini burada oluşturur.
+
+2.1.2.3- Master Time Management and Planning(Ana Zaman Yönetimi ve Planlama Tablosu): Bu alanda kullanıcı strateji belgesinde belirlediği hedefler için Uzun Vadeli (5 Yıllık Hedefler), Orta Vadeli(1 Yıllık Hedefler – Toplamda 5 yıllık Ayrı Ayrı) ve Kısa Vadeli (12 Aylık- Her Ay için Ayrı Ayrı) vadeli hedeflerini strateji belgesine bağlı kalarak belirler.Bu şekilde T noktasına erişmek için zamanı yöneterek planlama yapar ve bu tablolarda genel ilerleme yolunu çizer. 
+
+2.1.2.4- Master Günlük Zorunlu Çalışma ve Dinlenme Düzeni Tablosu: Kullanıcının normal hayatında rutin olarak çalıştığı bir işten kaynaklı olan bir çalışma döngüsü olabilir.Ayrıca 24 saatlik bir zaman diliminde dinlenme (uyku veya farklı aktivite) zamanları olabilir.Örneğin benim devlet memurluğu mesleğimde 5 Günlük Gündüz İşyeri çalışması (08:00 – 19:00) + 10 günlük Gece İşyeri çalışması(1 gün aralıklarla 5 Gece 19:00 – 08:00) sonra tekrar 5 günlük gündüz çalışması olacak şekilde sürekli bir döngü var.Kullanıcı bu döngüyü, başlangıç tarihini belirterek 1 kez tanımlar ve sistem bu veriyi sonradan günlük planı işlerken otomatik olarak işleyecektir.Kullanıcı günlük en az uyku ihtiyacı olduğu zamanlarıda burada belirleyebilir.
+
+Kullanıcı zorunlu çalışma zamanları içerisinde hangi saatlerinin boş zamanlar olduğunu belirler veya boş zamanının olmadığını belirtir.Bu bilgiye göre günlük yaşam döngüsü programında çalışma saatleri içerisindeki boş zamanları ve uyku zamanları belirlenir.
+
+
+2.1.2.5- Layer0 Rutin Görev ve Alışkanlıklar
+2.1.2.5.1- Tek Seferlik Görevler (Tarih Bazlı) Planı Tablosu: Kullanıcı bu alanda belirli bir tarihte yapması gereken görevleri takvim üzerinde oluşturabilir.Bu tarih gelmeden önce kendisine bildirimler ile bu görev hatırlatılır.Her ayın 15’inde ödemeler – faturaların ödemesi yapılır gibi.
+
+2.1.2.5.2- Periyodik Görevler (Haftalık-Aylık-Yıllık) Planı Tablosu: Kullanıcının 1 ay içerisinde belirli bir aralıkla yapması gereken periyodik görevler bu alana eklenir.Örneğin; Her hafta Pazar günü Alışveriş yapılacak gibi.Veya her haftanın ilk Pazartesi günü çamaşır yıkama-bulaşık yıkama-Ütü günü-Ev temizliği günü- gibi periyodik görevler bu alanda belirlenir.
+
+2.1.2.5.3- Günlük Alışkanlık Hedefleri Planı Tablosu:
+Kullanıcının T noktası hedeflerine ulaşmak için hergün alışkanlık haline getirmek istediği aktiviteler olabilir.Hergün 25 sayfa kitap okunur, Hergün işe gitmeden önce 45 dakika ev sporu yapılır gibi alışkanlıklar bu alana girilebilir.
+
+2.1.2.6- Hatırlatma ve Motivasyon Planı Tablosu:
+Kullanıcıya belirli bir zamanda örneğin günün belirli bir saatinde, haftada 1 veya 2, ayda 1 gibi hatırlatılması gereken motivasyon içeren iletiler bu alanda planlanabilir.Örneğin; Hergün Saat 13:00’da “Sigarayı bırak, Sigara sağlığa zararlıdır”, “Şekerli yiyeceklerden uzak dur, şeker insanı çürütür.” gibi bildirimlerin ayarlandığı bir alandır.
+
+2.1.3- Günlük Yaşam Döngüsü Programı Tablosu: 
+Layer0 Master Root Management altında yer alan tüm alanlardan elde edilen veriler ile kullanıcının günlük çalışma rutini döngüsüne uygun içerisinde 24 saatlik günlük görev ve aktivitelerin olduğu bir tablo ortaya çıkar.Bu tablo içerisinde kalan zamanlar boş zamanlar olarak değerlendirilebilir.Bu tablo diğer önceki tüm Master Root management bölümlerindeki bölümlerle anlık ilişki içerisinde olup taşınabilir, yerleri değiştirilebilir, saatlerinin sınırları değiştirilebilir dinamik bir tablodur.Bu tablo içerisindeki zamanlar kullanıcı tarafından değiştirilebilir ve bu zaman değişikleri olduğunda Master Root Management altında belirlenen tablolardada değişiklik olabilir.Örneğin Günlük Yaşam Döngüsü programında Uyku başlangıç zamanını saat 22:00’dan 21:30’a tabloda yer alan tablo çizgisini sürükleyerek değiştirebilir.Bu değişiklik yapıldığında ilgili tablolarda etkilenebilir.
+
+Bu tablo tamamıyla zamanları belirlenmiş aktivite ve şeylerin tek tabloda birleştirildiği bir yaşam döngüsü planıdır.Yukarıda belirttiğim devlet memurluğu çalışma düzenime benzer bir tanımlama yapan bir kullanıcının karşısına 5 günlük gündüz ve 10 günlük gece çalışmasını içeren döngüsel bir tablo çıkar.Her bir gün ve zamanlara ait belirli aktiviteler ve planlar bu tabloda yer alır.Bu günlük yaşam döngüsü programı tablosu diğer alt katmanlarıda içerisinde barındırabilir.Buna örnek olarak; Layer 2 Finansal ve Güvenlik alanının altında tanımlanmış bir Proje olduğunu düşünelim.Bu projenin adı: “TraderDevLabs Brand Building” olsun. Böyle bir durumda Günlük yaşam döngüsü tablosunda gece çalışma döngüsü içerisinde boş zaman olarak görünen işten arta kalan zamanda Saat 12:00-14:00 arasında olan alana “TraderDevLabs Brand Building” kartı kullanıcı tarafından veya otomatik olarak eklenebilir. 
+
+Bu Günlük Yaşam Döngüsü Programını herhangi bir zamanda açan bir kullanıcı o günün tarihine göre ayarlanmış, T noktası hedefine hizmet eden diğer katmanlardaki projeler için ayrılmış zaman kartlarını görebileceği, ne zaman spor yapacağını görebileceği, ne zaman kitap okuyacağı, ne zaman uyuması gerektiğini içeren zaman kartlarına göre ve çalışma döngüsüne göre ayarlanmış tam otomatik ve interaktif bir tablo ile karşılaşacaktır.
+
+2.1.4- Çıktılar (Outputs):
+
+Bu kısım bu katman (Layer0) içerisinde yapılan çalışmalardan elde edilen çıktıların yer aldığı, istatistik bilgisi için, raporlama için ve Kullanıcının sonuçlardan yeniden öğrenerek sisteme Re-İnput veriler oluşturabileceği bir alandır.Burada görev yönetimi tablosunda Yapımı Tamamlanan İşler ve kullanıcının bu biten görevlerle ilgili notları yer alır.Biten görevlerin her biri istatistiki bir bilgidir.
+
+
+2.1.5- Archives (Arşiv): 
+
+Bu alan üzerinde çalışması tamamlanmış herhangi bir görevin, belge sürümünün, bir daha kullanılmamak üzere sistemin içerisinden çıkarılarak arşivlendiği alandır.
+
+LIFE MANAGEMENT OS NASIL ÇALIŞIR VE UYGULAMADAN BEKLENENLER
+
+1. Uygulama traderdevlabs.com/lifeos adresi altında çalışan bir web uygulamasıdır.
+2. Kullanıcı bu adrese girer ve karşısına bir login ekranı çıkar.Bu login ekranında normal kayıt olma, Google veya Apple ile giriş seçenekleri çıkar.
+3. Kullanıcı sisteme ilk girdiğinde karşısına bir Main Dashboard ekranı çıkar, bu ekranda çeşitli anlık bilgiler ve istatistikler olur.
+
+Anlık Bilgi Alanları: 
+1.Günlük Yaşam Döngüsü Tablosu programının 24 saatlik bir görüntüsü, 
+2.Yapımı devam eden Görevlerin yer aldığı bir tablo (aciliyet sırasına göre sıralanmış layer mantığındaki hiyerarşiye uyan)
+3.O günün görevleri tablosu
+4.O günün günlük alışkanlık hedefleri tablosu
+
+İstatistik Alanları: 
+
+1. Aktif Projeler ve İstatistik Bilgi Kartları (Proje İlerlemesi % Kaç – Biten Görev Sayısı / Toplam Görev sayısı Formülüne göre)
+2. Biten Görev Sayısı (Aylık 100 Görev Yapma Hedefine Göre İstatistik)
+
+4.Kullanıcı Aklına gelen fikirleri Girdiler halinde sisteme girer, herhangi bir katman veya projeyle ilişkilendirilmeyen girdi bilgisi, sistemin ana girdiler kısmında bekler.
+
+5. Kullanıcı Layer0 Alanında T noktası hedeflerine ulaşmak için bir strateji belgesi yazar.Bu strateji belgesinin içinde mevcut durum (A noktası) tespit edilir.İdeal T noktası şartları belirlenir.Ve bu şartlara erişmek için izlemesi gereken yolu, hayatının tüm alanlarını değerlendirerek kendi kapasitesini işin içine katarak, eksikliklerini, avantajlarını, dezavantajlarını, İhtiyaçlarını, Olumlu Olumsuz alışkanlıklarını, Öğrenmesi Gerekenleri, İhtiyacı olan kafa yapısını, Bildiği Alanları, Eksik olduğu alanları belirleyerek kendisini kapsamlı bir analiz sürecinden geçirir.
+Bu analiz sürecinden öğrendikleri mevcut durum A noktasının doğru tespit edilmesi ve T noktası gereklilikleri için oldukça önemlidir.Bu uzun değerlendirmeler araştırmalar, beyin fırtınaları sonrasında izlenmesi gereken en optimum strateji ortaya çıkarılır.
+
+6. Kullanıcı Ana stratejisini belirledikten sonra bunları hayata geçirebilmek için Kısa,Orta ve Uzun vadeli bir planlama ve zaman yönetimi tablosu belirler.Kullanıcı 5 yıllık sürelerle Uzun vade planlama yapar.5 yıllık planlama sürecinde erişmek istediği nihai yeri belirler.Bu erişmek istediği noktayı 5 yıllık bir planlamada 5’e böler.Her yıl için adım adım hedefleri belirler.Kullanıcı Orta Vadede içinde bulunduğu yılı planlar ve 12 aylık bir planlama yapar.
+
+7.Kullanıcı normal hayat düzeninde sürekli ve döngüsel olarak bir aktivitesi varsa örneğin çalışma düzeni gibi. Bunun düzenini başlangıç tarihinden itibaren 1 döngü şeklinde Master Günlük Zorunlu Çalışma ve Dinlenme Düzeni Tablosu’na girer.
+
+8.Kullanıcı Katman 0’daki diğer tabloların tamamınada Ana Strateji belgesinde belirlediği yol haritasına uygun olacak şekilde veri girişi sağlar.
+
+9.Kullanıcı T noktası hedeflerine uygun Alanlar (Katmanlar-Layers) belirler.Bu layerların içerisinde layer yönetim kısımlarını, projeleri, projelere ait kısımların hepsini girer.Görevleri ve zamanı aktif olarak yönetir.
+
+
+Bu tanımlamalar Life OS web uygulaması projesinin genelini tanımlamaktadır.Ancak tamamının ve tüm alanların tanımlarını içermemektedir.Bunlar benim aklıma gelen bu projeye ait genel hatlar.
+
+1.Life Management OS hayatta idealleri ve amaçları olan bireyler için geliştirilmiş, bir insanın hayatının tüm alanlarını sistematik ve katmansal bir bakış açısıyla yönetmesine imkan sağlayan tam otomatik ve entegre çözümler sunan modüler yapıda tasarlanmış bir hayat yönetimi işletim sistemidir.Bireylerin yeterince karmaşık ve düzensiz olan hayatlarını ve enerjilerini doğru aktivite ve planlamalarla düzenlemesine imkan sağlayarak ideal hayat amaçlarına erişmelerini sağlayan projelerini hayatın karmaşıklığı içerisinde sürdürülebilir şekilde tamamlamalarını ve hedeflerine ulaşmalarını sağlar.Bir insanın yaşamak istediği ideal hayata erişebilmesi için belirli projelere aşırı yoğunlaşması hayatının diğer alanlarını ihmal etmesiyle sonuçlanır.Bu durum bir süre sonra sürdürülebilir olmaktan çıkar ve amaçlarına hedeflerine erişemeden başlanan her projenin yarıda kalmasıyla sonuçlanır.Life Manegement OS işletim sistemi bir insanın hayatının tüm alanlarını bütüncül bir bakış açısıyla ele alarak enerjisini aktif ve sürdürülebilir şekilde yönetmesine imkan sağlar.Enerji dağınıklığı ve hayat alanlarındaki dengesizlik problemini bütüncül ve sürdürülebilir bakış açısı geliştirerek çözmesini sağlar. 
+
+2.Bu uygulamayı mevcut durumundan (A noktası), ideal hayat hedefleri(T noktası) ne ulaşmak isteyen kişiler için yapıyoruz.Gözümde canlanan ideal kullanıcı; Türkiyede yaşayan, 34 yaşında, bulunduğu ülkenin eğitim sisteminin kötü olması sebebiyle genç yaşlarında belirli farkındalıklar elde edememiş, bu sebeple kendisine uygun mesleği seçemeyerek belirli tesadüfler sonucu kendinisini Türkiyede Polislik mesleği içerisinde bulmuş bir kişidir.Bu farkındalıklarıda elde edemeden 26 yaşında evlenmiş, evli olduğu kişinin kendi kafa yapısına uygun olmadığının sonradan farkına varmış bir kişidir.Çünkü çocukluğundan o güne kadar karşı cinse karşı kapalı olan içine kapanık bir kişiliğe sahip olmuştur.34 yaşına gelen bu kişi insan ilişkileriyle ilgili önemli bilgi ve bakış açısı eksikliklerinin olduğunun farkına varmıştır.Bunun sebeplerini düşündüğünde yeterince kitap okumamak, özgüven eksikliği gibi ailesinden gelen yetiştirilme bozuklukları olduğunun farkına varmıştır.Bu sebeple insanları iyi tahlil etmeyi öğrenmesinin gerekli olduğu, özgüven arttırıcı çözümler bulmaya yönelmesi gerektiğinin ve en önemliside çevresindeki insanlar ile ilgili sistematik ve istihbari somut veriler üzerinden tahliller yapabileceği bir ortama ihtiyaç duyduğunu gözlemlemektedir.Çevresinde bulunan hem yakınları (ailesinden olanlar) hemde uzak çevresinden kendi duygu durumunu etkileyebilecek etkilerin varolabileceğinin, bunların kendisi üzerinde olumlu ve olumsuz etkiler doğurabileceğinin farkına varmıştır.Bu alanı etkili şekilde yönetmenin elzem olduğu açıktır.Bu kişi 34 yaşına geldiğinde yaşadığı ülkenin siyasi ve ekonomik risklerinin farkına varmış bu durumun uzun vadede hem maddi hem manevi kayıplara (psikolojik kayıplar gibi) sebep olabileceğinin farkına varmış, bu sebeple siyasi ve ekonomik riskler içermeyen farklı bir ülkede (İsviçre) yaşamak isteyen bir kişidir.Bu kişi evli olması, yaşamını ve minimum geçim miktarını karşılayarak Türkiye şartlarında hem yaşamak zorunda hemde ideal hedeflerine doğru ilerlemek zorundadır.Bunları yaparkende kendi sağlığını (hem bedensel hemde ruhsal) korumak zorunda olduğunun farkına varmıştır.Ancak kendi sağlığı ile ilgili yaşadığı hayat içerisinde ortaya çıkan semptomların tamamını not alıp bütüncül bir değerlendirme yapabileceği bir sistemi yoktur.Sağlık riskleri ile alakalı fizik bedeninde ortaya çıkan kısa,orta ve uzun vadeli semptomlar üzerinden bir istihbaratçı gibi somut ve net bilgiler toplayabileceği bunları değerlendirip doğru aksiyonları alabileceği bir sağlık yönetim sistemine ihtiyaç vardır.Bu sağlık yönetimi sistemi analiz et, değerlendir, sorunu çöz ve geliştir mekanizması üzerine kurulu olmaldır.Bu sistem içerisinde kişi mevcut sağlık durumunu önce korumayı sonrada sürekli olarak dahada iyileştirmeyi hedefleyebileceği bir sistematiğe ihtiyaç duymaktadır bunun farkındalığını elde etmiştir.Kendi sağlığı ile ilgili olarak, tam ve kapsamlı bir sağlık yönetim sistemi, bunun yanında gelişim sistemi içerisinde spor yapma projesi, sağlıklı beslenme ve uyku düzeni projesi gibi projeler yönetmesi gerektiğinin farkına varmıştır.Ancak hayatının tek bir alanına ( sağlık ) etki eden bu şekilde birçok alan olduğu ve ayrı ayrı stratejilerle yönetilmesi gereken alanlar varken kişi Hem mevcut mesleğini devam ettirmek zorunda, hem ailesinin geçimini sağlamak zorunda bunların yanında birikim, yatırım yapmak zorundadır.Ayrıca Kendi mesleği içerisindeki çalışma düzeni o kadar yorucu ve farklıdırki günlük plan yapamamakta, uyku düzenini bulamamakta, ailesinin günlük geçimini sağlamaya çalışırken yatırım ve birikim yapamamakta en önemliside işten arta kalan zamanlarında veya işyerindeki boş zamanlarında ne yapacağını planlayamamaktadır.Bu durum kişiyi aşırı zorluklar içerisinde boğuşan, enerjisinin (hem maddi hemde manevi) sürekli olarak bölündüğü bir hayat yaşamasına sebep olmaktadır.Bu sebeple kronik stres etkisinde bir hayat yaşamakta, bu durum zararlı alışkanlıklar geliştirmesinede sebep olmaktadır(İçki, sigara gibi).Bu durumlar onda kısır döngüler içerisinde sürüklenen bir hayat yaşamasına sebep olmaktadır.İdeal hedefi isviçrede yaşamaktır.Bunun için düzenli bir gelirinin olması ve bunun içinde iş kurması gerekmektedir.Bu kişi isviçredeki farklı iş kollarına uygun değildir çünkü herhangi bir mesleği yoktur.Bu seçenek onun için çok zorlu bir yoldur.Bu sebeple isviçreye gitmeden önce bir iş kurması gerekmektedir.İş kurmak içinde çeşitli iş kollarında (Örneğin Shopify Dropshipping, Finansal Piyasa Trader'lığı, Amazon E-ticaret) bilgi ve deneyim sahibi olması gerekmektedir.Çünkü bu alanlara ilgi duymakta ve bu alanlarda bilgi sahibi olmuş gönlünden geçen işler bunlardır.Bu tür süreçlerin tamamını yönetmek için izlemesi gereken ciddi bir stratejiye ve planlamaya ihtiyaç duymaktadır.Bu projeleri yönetmek için kişinin sadece iş kurma ile ilgili süreçleri yönetmesinin yanında sağlıklı olmayada ihtiyacı vardır.İnsan ilişkilerini düzenlemeli, mevcut finansal yapısını iyi yönetmeli, hangi eğitimleri hangi sırayla alması gerektiğini bilmeli, psikolojisini sağlam tutmalı ve türkiyede geçirdiği her bir günde elde ettiği boş zamanlarını hedeflerine giden yolda çok iyi değerlendirmek zorundadır.Zamanını yönetebilmeli, projelerini ve görevlerini sırasıyla ve gerçek adımlar atarak ilerletmeli, birikim yapıp belirli bir sermayeye ulaşmalıdır.Yani büyük resmi görerek hayat risklerini yöneterek dengeli ve sistematik bir enerji yönetimi yapmasını bilmelidir.Bunun için kullanıcının tüm hayat alanlarını düzenleyip yönetebildiği ikinci bir beyin gibi (Tiago Forte Second Brain) çalışan bütüncül bir işletim sistemine ihtiyacı vardır. 
+
+3. Notion,Ticktick, Trello gibi araçların sunduğu çözümler dar kapsamlıdır.Notion içerisinde bütüncül bir sistem geliştirmek platformun sunduğu kısıtlı imkanlar sebebiyle çok zordur veya imkansızdır.Diğer trello ve tictick gib araçlarda böyledir.Life Management OS işletim sistemi bir insanın hayat amacına ulaşması için bütüncül ve katmanlı mimariyle farklı bir bakış açısı geliştirir, kişinin tüm alanlarda tam kontrolü ele alarak enerjisini doğru zamanda doğru noktaya odaklayarak sürdürülebilir bir gelişim sağlamasının önünü açar. 
+
+4."Bu uygulama hayatımı değiştirdi çünkü tüm hayatımın kontrolünü ve yönetimini tüm alanlarıyla beraber elime alabildim,birçok alanda 2 yılda gidebileceğim yolu 3 ayda katettim.Çok fazla işi ve görevi zorlanmadan enerjimi yöneterek yapabildim, hayatımın birçok alanında kırılma noktaları yaşayabildim.Artık çok daha sistematik, disipli ve odaklı bir hayatım var.Hedeflerime zorlanmadan ulaşabileceğimi biliyorum ve bundan hiç bu kadar emin olmamıştım." cümlesi başarıyı kullanıcı gözünde tanımlar. 
+
+5.Temel Felsefe kullanıcıyı karmaşıklıktan uzak hayatının her alanını tek bir sistemden yönetebileceği bütünsel bakış açısını korumaktır. 
+
+6. Misyon bildirgesi: Misyonumuz, bireylere hayatlarının tüm alanlarını bütünsel bir yaklaşımla yönetebilecekleri dijital bir ortam sunarak, dağınık enerjilerini hedeflerine yönelik odaklanmış bir güce dönüştürmektir.
+7.Vizyonumuz: Life OS'in hedeflerini gerçekleştirmek isteyen yüzbinlerce kişiye binlerce farklı modülüyle destek olması, bireylerin kişisel gelişimi ve hedeflerine ulaşmasında dünyaca ünlü ve en etkili vazgeçilmez araç olmasıdır.
+
+8.Başarının Tanımı: Proje sahibi olarak benim için proje başarısının somut göstergeleri şunlardır;
+
+9. 1 .Life Management OS'in Kendi ideal hedeflerime(T noktama) ulaşmada tüm alanlarıyla bana aktif,verimli ve sürdürülebilir şekilde yıllarca hizmet ettiğini görerek ayda en az 500 görevi stressiz yerine getirebildiğimi, projelerimi verimli yönetebildiğimi, zamanımı en verimli şekilde yönetebildiğimi görmek olacak.Ayrıca Life Management OS'i kolay ve hızlı şekilde kullanabilmek benim için başarıyı tanımlar.
+
+9.2.Ölçülebilir hedefler: Proje hayata geçtikten sonraki 1 yıl içerisinde en az 500 kullanıcının aktif olarak projeyi kullanmasını hedefliyorum.Kullanıcıların uygulamayı gerçekten yaşadığını gösteren tek metrik benim için şu olacak; çeşitli ihtiyaçlarına yönelik modüller geliştirilmesini istediklerinde proje benim için gerçekten yaşayan bir projedir.Örneğin Finansal Piyasalarda Traderlık yapmak isteyen bir kişinin Life Management OS içerisine "Trading Journal Modülü" eklenmesini talep etmesi projenin yaşadığını ve sürekli gelişim yolunun açık olduğunu gösteren önemli bir etkileşim göstergesidir.Proje içerisindeki talebe göre sisteme eklenen bu modüller diğer kullanıcılar içinde örnek ve kullanıma hazır modüller olacak, sistemin sürekli etkileşim içerisinde büyümesine katkı sağlayacaktır.Bunun dışında proje standartlarında oluşturulan katmanlara ek katmanlar eklenmesi, projeler oluşturulması, sistemin tüm kullanıcılarının günlük olarak tamamlanan görev sayısının artan bir trend izlemesi, sürekli artan toplam proje sayısı önemli etkileşim metrikleridir.
+3.3.Kalıcılık (Retention): Kullanıcıların uygulamayı kullanmayı bırakmaması oldukça önemli bir hedef Uygulamayı indiren kullanıcıların %30'unun 3 ay sonra hala aktif olması başarıyı tanımlayan başka bir metriktir.
+
+Rakipler:
+Notion: Notion sayfalarında, sayfaları kullanıcın esnek şekilde dizayn edebileceği yapılar sunuyor.Tabloları taşıyabilme, sayfa içeriği yerleşimlerinde taşınabilir dashboard ekran mantığı olması özgür bir sayfa tasarımı mimarisi ortaya koyuyor.
+Trello: Basit ve kullanışlı arayüzü ile kanban tablolarıyla görev yönetimine odaklanıyor.
+Fırsatlar: Hiçbirinin hayatı katmanlı bir hiyerarşi ve bütünsel bir strateji ile birleştiren yerleşik bir metodolojisi yok.Life Management OS hedef odaklı strateji, zaman yönetimi ve planlama üzerinden büyük resmi görmeyi sağlar.Ve bu büyük resme uygun alt katmanları, bu alt katmanlara ait projeleri oluşturmayı daha odaklı bir biçimde sunuyor.Tüm hayat alanları için bütünsel tek çözüm gibi duruyor.Life Management OS ortaya koyduğu tüm yapıyla birbirine entegre bir mimari ortaya koyuyor.Bu yapı aşağı doğru genişleyen bir üçgen gibi düşünülebilir.Kullanıcısına tam ve entegre bütüncül bakış açısına sahip bir çözüm sunuyor.
